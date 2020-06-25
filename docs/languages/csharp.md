@@ -3,7 +3,7 @@ Order: 15
 Area: languages
 TOCTitle: C#
 ContentId: 40C8AAC1-C00D-4E91-8877-737A598346B6
-PageTitle: C# programming with Visual Studio Code
+PageTitle: C# programming with Visual
 DateApproved: 7/16/2018
 MetaDescription: Find out how to get the best out of Visual Studio Code and C#.
 MetaSocialImage: images/csharp/languages_csharp.png
